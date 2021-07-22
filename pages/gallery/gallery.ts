@@ -3,7 +3,7 @@ import { NavController } from 'ionic-angular';
 
 @Component({
   selector: 'page-gallery',
-  templateUrl: 'about.html'
+  templateUrl: 'gallery.html'
 })
 export class GalleryPage {
   constructor(public navCtrl: NavController) {}
